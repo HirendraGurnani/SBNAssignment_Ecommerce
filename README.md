@@ -17,7 +17,7 @@ The project is designed to be simple yet structured like a real-world MERN-style
 ⚙️ How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/ecommerce-cart-system.git
+   git clone https://github.com/HirendraGurnani/SBNAssignment_Ecommerce.git
    cd ecommerce-cart-system
 
 ------------------------------------------------------------
